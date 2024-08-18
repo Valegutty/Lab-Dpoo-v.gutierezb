@@ -1,0 +1,13 @@
+tipo:Regular:3:10.0
+tipo:Diesel:4:20.0
+tipo:Premium:4:20.0
+tipo:Sintetica:3:20.0
+surtidor:Jaime Ramirez:Regular:0.0:Diesel:0.0:Premium:0.0:Sintetica:0.0
+surtidor:Felipe Riveros:Regular:0.0:Diesel:0.0:Premium:0.0:Sintetica:0.0
+surtidor:Felipe Riveros:Regular:0.0:Diesel:0.0:Premium:0.0:Sintetica:0.0
+surtidor:Luis Miguel Perez:Regular:0.0:Diesel:0.0:Premium:0.0:Sintetica:0.0
+empleado:Luis Miguel Perez:0
+empleado:Maria Gomez:0
+empleado:Felipe Riveros:0
+empleado:Jaime Ramirez:0
+empleado:Valentina Jara:0
